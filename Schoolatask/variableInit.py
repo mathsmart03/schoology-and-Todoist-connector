@@ -1,9 +1,9 @@
-iCalLink = "https://parkland.schoology.com/calendar/feed/ical/1619378841/e7b1a95b70ef2be36f140b8695da332f/ical.ics"
+iCalLink = ""
 subjectsList = ["Math","ELA","Science","Social Studies","Band","Info Tech","PE","Study Skills","Guidance","Media Center","German", "Art"]
 subjectsNumberList = ["2638213180", "2638201246", "2638213814", "2638207207", "2638224582", "2638219518", "2638190561", "2638238557", "2638192015", "2638195737", "2638218654", "2638224091"]
-todoistAPItoken = "c80e7fbe69136a4027390128cdeea978c855a70c"
-todoistProjectID = "2264530758"
-ignoreDate = "2021-05-01"
+todoistAPItoken = ""
+todoistProjectID = ""
+ignoreDate = ""
 import time
 
 try:
